@@ -1,5 +1,5 @@
-const Shapes = require('./lib/shapes.js');
+const CLI = require('./lib/cli.js');
 
-const shapes = new Shapes();
+const cli = new CLI();
 
-shapes.run();
+cli.run();
