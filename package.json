@@ -4,6 +4,7 @@
     "description": "This is a command line tool to generate a svg logo and write it to a file.",
     "main": "index.js",
     "scripts": {
+        "start": "node index.js",
         "test": "jest"
     },
     "private": true,
